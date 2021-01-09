@@ -32,3 +32,5 @@ The central limit theorem enables us to go one step further by describing the ex
 The larger the sample size and the more samples taken, the more closely the distribution of sample means will approximate the normal curve.
 
 A larger sample is less likely to be affected by random variation.
+
+*presently at page 100  - NS*
